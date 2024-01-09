@@ -21,6 +21,6 @@ Open a powershell windows as admin and run it as .\scanner.ps1.
 Or import it to your powershell profile to start it with "portscan"
 
 function portscan {
-    . "C:\Users\admin_mvviegen\Documents\WindowsPowerShell\Scanner.ps1"
+    . "C:\Users\USER\Documents\WindowsPowerShell\Scanner.ps1"
     Scan-TCPPorts
 }
