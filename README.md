@@ -18,4 +18,4 @@ This port scanner is perfect for network administrators, security analysts, and 
 
 ## Beginner Friendly! ##
 Open a powershell windows as admin and run it as .\scanner.ps1,
-Or import it as a module and run it with "Scan-TCPPorts"
+Or import it to your powershell profile to start it with "portscan"
